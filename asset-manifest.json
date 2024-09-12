@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dynamic-Table-Management/static/css/main.7cce8741.css",
+    "main.js": "/Dynamic-Table-Management/static/js/main.65d83678.js",
+    "static/js/453.5e560239.chunk.js": "/Dynamic-Table-Management/static/js/453.5e560239.chunk.js",
+    "index.html": "/Dynamic-Table-Management/index.html",
+    "main.7cce8741.css.map": "/Dynamic-Table-Management/static/css/main.7cce8741.css.map",
+    "main.65d83678.js.map": "/Dynamic-Table-Management/static/js/main.65d83678.js.map",
+    "453.5e560239.chunk.js.map": "/Dynamic-Table-Management/static/js/453.5e560239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cce8741.css",
+    "static/js/main.65d83678.js"
+  ]
+}
